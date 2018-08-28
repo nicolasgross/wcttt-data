@@ -515,6 +515,25 @@
                 </practical>
             </practicals>
         </course>
+        <course id="course9" name="Mobile Software Systems" abbreviation="MOBI-MSS-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair0</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session37" name="MSS Vorlesung" doubleSession="false" students="50">
+                    <teacher>teacher26</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session38" name="MSS Übung 1" doubleSession="false" students="30">
+                    <teacher>teacher27</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session39" name="MSS Übung 2" doubleSession="false" students="30">
+                    <teacher>teacher27</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
     </courses>
     <curricula/>
     <timetables/>
