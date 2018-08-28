@@ -164,6 +164,10 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher28" name="Maliha Majid Qureshi">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="chair1" name="Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen" abbreviation="PSI">
@@ -493,6 +497,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session36" name="DSC Übung" doubleSession="false" students="30">
                     <teacher>teacher27</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course8" name="Implementation of Data Management Systems" abbreviation="MOBI-IMP-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair0</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session31" name="IMP Vorlesung" doubleSession="false" students="40">
+                    <teacher>teacher26</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session32" name="IMP Übung" doubleSession="false" students="40">
+                    <teacher>teacher28</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
         </course>
