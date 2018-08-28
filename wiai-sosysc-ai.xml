@@ -78,13 +78,45 @@
                 </teacher>
             </teachers>
         </chair>
-        <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GDI">
+        <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GdI">
             <teachers>
                 <teacher id="mendler" name="Prof. Michael Mendler, PhD">
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="guatto" name="Dr. Adrien Guatto">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher12" name="GdI HiWi 1">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher13" name="GdI HiWi 2">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher14" name="GdI HiWi 3">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher15" name="GdI HiWi 4">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher16" name="GdI HiWi 5">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher17" name="GdI HiWi 6">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher18" name="GdI HiWi 7">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher19" name="GdI HiWi 8">
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
@@ -323,7 +355,7 @@
             </lectures>
             <practicals/>
         </course>
-        <course id="course1" name="Introduction to Funtional Programming" abbreviation="GDI-IFP" courseLevel="Bachelor" minNumberOfDays="2">
+        <course id="course1" name="Introduction to Funtional Programming" abbreviation="GdI-IFP" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>gdi</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session8" name="IFP Vorlesung" doubleSession="false" students="60">
@@ -338,6 +370,53 @@
                 </practical>
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session10" name="IFP Übung 2" doubleSession="false" students="30">
                     <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course2" name="Mathematik für Informatik 1" abbreviation="GdI-MfI-1-B" courseLevel="Bachelor" minNumberOfDays="2">
+            <chair>gdi</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session11" name="MfI-1 Vorlesung" doubleSession="false" students="100">
+                    <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session14" name="MfI-1 Plenarübung" doubleSession="false" students="100">
+                    <teacher>guatto</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session12" name="MfI-1 Tutorium 1" doubleSession="false" students="20">
+                    <teacher>teacher12</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session13" name="MfI-1 Tutorium 2" doubleSession="false" students="20">
+                    <teacher>teacher13</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session15" name="MfI-1 Tutorium 3" doubleSession="false" students="20">
+                    <teacher>teacher14</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session16" name="MfI-1 Tutorium 4" doubleSession="false" students="20">
+                    <teacher>teacher15</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session17" name="MfI-1 Tutorium 5" doubleSession="false" students="20">
+                    <teacher>teacher16</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session18" name="MfI-1 Tutorium 6" doubleSession="false" students="20">
+                    <teacher>teacher17</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session19" name="MfI-1 Tutorium 7" doubleSession="false" students="20">
+                    <teacher>teacher18</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session20" name="MfI-1 Tutorium 8" doubleSession="false" students="20">
+                    <teacher>teacher19</teacher>
                     <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
