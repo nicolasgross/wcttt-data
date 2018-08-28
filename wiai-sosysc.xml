@@ -164,7 +164,16 @@
             <teachers/>
         </chair>
         <chair id="chair3" name="Lehrstuhl für Angewandte Informatik in den Kultur-, Geschichts- und Geowissenschaften" abbreviation="KInf">
-            <teachers/>
+            <teachers>
+                <teacher id="teacher24" name="Prof. Dr. Christoph Schlieder">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher25" name="Dr. Klaus Stein">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair4" name="Lehrstuhl für Medieninformatik" abbreviation="MI">
             <teachers/>
@@ -481,6 +490,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session27" name="US Übung 2" doubleSession="false" students="25">
                     <teacher>teacher23</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course5" name="Semantic Information Processing" abbreviation="KInf-SemInf-M" courseLevel="Master" minNumberOfDays="2">
+            <chair>chair3</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session28" name="SemInf Vorlesung" doubleSession="false" students="30">
+                    <teacher>teacher24</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session29" name="SemInf Übung" doubleSession="false" students="30">
+                    <teacher>teacher25</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
