@@ -72,6 +72,18 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher0" name="Dr. Florian Meinfelder">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher1" name="Dr. Martin Messingschlager">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher2" name="Michael Bergrab">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
@@ -120,16 +132,21 @@
         <externalRoom id="audimax" name="Audimax"/>
     </externalRooms>
     <courses>
-        <course id="stat1" name="Methoden der Statistik 1" abbreviation="Stat-B-01" courseLevel="Bachelor" minNumberOfDays="1">
+        <course id="stat1" name="Methoden der Statistik I" abbreviation="Stat-B-01" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>stat</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="stat1-l1" name="Statistik Lecture" doubleSession="true">
-                    <teacher>rässler</teacher>
-                    <preAssignment day="2" timeSlot="3"/>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="stat1-l1" name="Statistik I Vorlesung" doubleSession="true">
+                    <teacher>teacher1</teacher>
+                    <preAssignment day="2" timeSlot="4"/>
                     <room>audimax</room>
                 </lecture>
             </lectures>
-            <practicals/>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session0" name="Statistik I Übung" doubleSession="false" students="40">
+                    <teacher>teacher2</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
         </course>
         <course id="fse" name="Foundations of Software Engineering" abbreviation="SWT-FSE-B" courseLevel="Bachelor" minNumberOfDays="3">
             <chair>swt</chair>
@@ -250,6 +267,17 @@
                     <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
+        </course>
+        <course id="course0" name="Methoden der Statistik II" abbreviation="Stat-B-02" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>swt</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session2" name="Statistik II Vorlesung" doubleSession="true">
+                    <teacher>lüttgen</teacher>
+                    <preAssignment day="4" timeSlot="2"/>
+                    <room>audimax</room>
+                </lecture>
+            </lectures>
+            <practicals/>
         </course>
     </courses>
     <curricula>
