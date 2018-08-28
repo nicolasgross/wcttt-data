@@ -155,7 +155,16 @@
             </teachers>
         </chair>
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
-            <teachers/>
+            <teachers>
+                <teacher id="teacher26" name="Prof. Dr. Daniela Nicklas">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher27" name="Golnaz Elmamooz">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair1" name="Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen" abbreviation="PSI">
             <teachers/>
@@ -469,6 +478,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session34" name="Datkomm Übung" doubleSession="false" students="40">
                     <teacher>großmann</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course7" name="Data Streams and Complex Event Processing" abbreviation="MOBI-DSC" courseLevel="Master" minNumberOfDays="1">
+            <chair>chair0</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session35" name="DSC Vorlesung" doubleSession="false" students="30">
+                    <teacher>teacher26</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session36" name="DSC Übung" doubleSession="false" students="30">
+                    <teacher>teacher27</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
