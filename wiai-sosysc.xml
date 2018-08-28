@@ -567,6 +567,28 @@
                 </practical>
             </practicals>
         </course>
+        <course id="course12" name="Software Engineering Lab" abbreviation="SWT-SWL-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>swt</chair>
+            <lectures/>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session46" name="SWL Meeting A" doubleSession="false" students="10">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session47" name="SWL Meeting B" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session48" name="SWL Meeting C" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session49" name="SWL Meeting D" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
     </courses>
     <curricula/>
     <timetables/>
