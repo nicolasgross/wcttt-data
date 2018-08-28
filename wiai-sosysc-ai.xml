@@ -5,16 +5,8 @@
         <chair id="swt" name="Lehrstuhl Softwaretechnik und Programmiersprachen" abbreviation="SWT">
             <teachers>
                 <teacher id="lüttgen" name="Prof. Dr. Gerald Lüttgen">
-                    <unfavorablePeriods>
-                        <unfavorable day="1" timeSlot="1"/>
-                        <unfavorable day="1" timeSlot="1"/>
-                        <unfavorable day="1" timeSlot="1"/>
-                    </unfavorablePeriods>
-                    <unavailablePeriods>
-                        <unavailable day="2" timeSlot="4"/>
-                        <unavailable day="2" timeSlot="5"/>
-                        <unavailable day="2" timeSlot="6"/>
-                    </unavailablePeriods>
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
                 </teacher>
                 <teacher id="yip" name="Dr. Eugene Yip">
                     <unfavorablePeriods/>
@@ -29,11 +21,7 @@
         <chair id="dsg" name="Lehrstuhl für Praktische Informatik" abbreviation="DSG">
             <teachers>
                 <teacher id="wirtz" name="Prof. Dr. Guido Wirtz">
-                    <unfavorablePeriods>
-                        <unfavorable day="1" timeSlot="1"/>
-                        <unfavorable day="1" timeSlot="1"/>
-                        <unfavorable day="1" timeSlot="1"/>
-                    </unfavorablePeriods>
+                    <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="dsg-hiwi1" name="DSG HiWi 1">
@@ -58,14 +46,7 @@
             <teachers>
                 <teacher id="mendler" name="Prof. Michael Mendler, PhD">
                     <unfavorablePeriods/>
-                    <unavailablePeriods>
-                        <unavailable day="5" timeSlot="1"/>
-                        <unavailable day="5" timeSlot="2"/>
-                        <unavailable day="5" timeSlot="3"/>
-                        <unavailable day="5" timeSlot="4"/>
-                        <unavailable day="5" timeSlot="5"/>
-                        <unavailable day="5" timeSlot="6"/>
-                    </unavailablePeriods>
+                    <unavailablePeriods/>
                 </teacher>
                 <teacher id="guatto" name="Dr. Adrien Guatto">
                     <unfavorablePeriods/>
@@ -77,14 +58,7 @@
             <teachers>
                 <teacher id="krieger" name="Prof. Dr. Udo R. Krieger">
                     <unfavorablePeriods/>
-                    <unavailablePeriods>
-                        <unavailable day="4" timeSlot="1"/>
-                        <unavailable day="4" timeSlot="2"/>
-                        <unavailable day="4" timeSlot="3"/>
-                        <unavailable day="4" timeSlot="4"/>
-                        <unavailable day="4" timeSlot="5"/>
-                        <unavailable day="4" timeSlot="6"/>
-                    </unavailablePeriods>
+                    <unavailablePeriods/>
                 </teacher>
                 <teacher id="großmann" name="Dr. Marcel Großmann">
                     <unfavorablePeriods/>
