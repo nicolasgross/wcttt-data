@@ -534,6 +534,24 @@
                 </practical>
             </practicals>
         </course>
+        <course id="course10" name="Foundations of Software Analysis" abbreviation="SWT-FSA" courseLevel="Bachelor" minNumberOfDays="3">
+            <chair>swt</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session40" name="FSA V/Ü 1" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session42" name="FSA V/Ü 2" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session43" name="FSA V/Ü 3" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals/>
+        </course>
     </courses>
     <curricula/>
     <timetables/>
