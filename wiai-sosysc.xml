@@ -242,18 +242,14 @@
                 </practical>
             </practicals>
         </course>
-        <course id="fse" name="Foundations of Software Engineering" abbreviation="SWT-FSE-B" courseLevel="Bachelor" minNumberOfDays="3">
+        <course id="fse" name="Foundations of Software Engineering" abbreviation="SWT-FSE-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>swt</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l1" name="FSE Lecture 1" doubleSession="true" students="80">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l1" name="FSE Lecture 1" doubleSession="false" students="80">
                     <teacher>lüttgen</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </lecture>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l2" name="FSE Lecture 2" doubleSession="false" students="80">
-                    <teacher>lüttgen</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l3" name="FSE Lecture 3" doubleSession="false" students="80">
                     <teacher>lüttgen</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </lecture>
@@ -339,19 +335,18 @@
         <course id="mtl" name="Modal and Temporal Logic" abbreviation="GdI-MTL" courseLevel="Master" minNumberOfDays="2">
             <chair>gdi</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL Vorlesung" doubleSession="false" students="40">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL V/Ü 1" doubleSession="false" students="40">
                     <teacher>mendler</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </lecture>
-            </lectures>
-            <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-p2" name="MTL Übung" doubleSession="false" students="40">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session30" name="MTL V/Ü 2" doubleSession="false" students="40">
                     <teacher>guatto</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </practical>
-            </practicals>
+                </lecture>
+            </lectures>
+            <practicals/>
         </course>
-        <course id="gik" name="Grundbausteine der Internet-Kommunikation" abbreviation="KTR-GIK-M" courseLevel="Master" minNumberOfDays="2">
+        <course id="gik" name="Grundbausteine der Internet-Kommunikation" abbreviation="KTR-GIK-M" courseLevel="Master" minNumberOfDays="1">
             <chair>ktr</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="gik-l1" name="GIK Lecture 1" doubleSession="false" students="20">
@@ -381,7 +376,7 @@
             </lectures>
             <practicals/>
         </course>
-        <course id="course1" name="Introduction to Funtional Programming" abbreviation="GdI-IFP" courseLevel="Bachelor" minNumberOfDays="2">
+        <course id="course1" name="Introduction to Funtional Programming" abbreviation="GdI-IFP" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>gdi</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session8" name="IFP Vorlesung" doubleSession="false" students="60">
@@ -447,7 +442,7 @@
                 </practical>
             </practicals>
         </course>
-        <course id="course3" name="Interaktive Systeme" abbreviation="HCI-IS-B" courseLevel="Bachelor" minNumberOfDays="2">
+        <course id="course3" name="Interaktive Systeme" abbreviation="HCI-IS-B" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>chair5</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session7" name="IS Vorlesung" doubleSession="false" students="50">
@@ -474,7 +469,7 @@
                 </practical>
             </practicals>
         </course>
-        <course id="course4" name="Ubiquitäre Systeme" abbreviation="HCI-US-B" courseLevel="Bachelor" minNumberOfDays="2">
+        <course id="course4" name="Ubiquitäre Systeme" abbreviation="HCI-US-B" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>chair5</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session25" name="US Vorlesung" doubleSession="false" students="40">
@@ -493,7 +488,7 @@
                 </practical>
             </practicals>
         </course>
-        <course id="course5" name="Semantic Information Processing" abbreviation="KInf-SemInf-M" courseLevel="Master" minNumberOfDays="2">
+        <course id="course5" name="Semantic Information Processing" abbreviation="KInf-SemInf-M" courseLevel="Master" minNumberOfDays="1">
             <chair>chair3</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session28" name="SemInf Vorlesung" doubleSession="false" students="30">
@@ -505,6 +500,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session29" name="SemInf Übung" doubleSession="false" students="30">
                     <teacher>teacher25</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course6" name="Datenkommunikation" abbreviation="KTR-Datkomm-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>ktr</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session33" name="Datkomm Vorlesung" doubleSession="false" students="40">
+                    <teacher>krieger</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session34" name="Datkomm Übung" doubleSession="false" students="40">
+                    <teacher>großmann</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
         </course>
