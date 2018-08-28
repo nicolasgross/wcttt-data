@@ -170,7 +170,20 @@
             <teachers/>
         </chair>
         <chair id="chair5" name="Lehrstuhl für Mensch-Computer-Interaktion" abbreviation="HCI">
-            <teachers/>
+            <teachers>
+                <teacher id="teacher20" name="Prof. Dr. Tom Gross">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher21" name="Pia Marquart">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher22" name="Mirko Fetter">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair6" name="Smart Environments" abbreviation="SME">
             <teachers/>
@@ -345,7 +358,7 @@
             </practicals>
         </course>
         <course id="course0" name="Methoden der Statistik II" abbreviation="Stat-B-02" courseLevel="Bachelor" minNumberOfDays="1">
-            <chair>swt</chair>
+            <chair>stat</chair>
             <lectures>
                 <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session2" name="Statistik II Vorlesung" doubleSession="true">
                     <teacher>lüttgen</teacher>
@@ -418,6 +431,33 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session20" name="MfI-1 Tutorium 8" doubleSession="false" students="20">
                     <teacher>teacher19</teacher>
                     <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course3" name="Interaktive Systeme" abbreviation="HCI-IS-B" courseLevel="Bachelor" minNumberOfDays="2">
+            <chair>chair5</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session7" name="IS Vorlesung" doubleSession="false" students="50">
+                    <teacher>teacher20</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session21" name="IS Übung 1" doubleSession="false" students="20">
+                    <teacher>teacher21</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session22" name="IS Übung 2" doubleSession="false" students="20">
+                    <teacher>teacher21</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session23" name="IS Übung 3" doubleSession="false" students="20">
+                    <teacher>teacher21</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session24" name="IS Übung 4" doubleSession="false" students="20">
+                    <teacher>teacher22</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
         </course>
