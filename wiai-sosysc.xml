@@ -242,33 +242,6 @@
                 </practical>
             </practicals>
         </course>
-        <course id="fse" name="Foundations of Software Engineering" abbreviation="SWT-FSE-B" courseLevel="Bachelor" minNumberOfDays="2">
-            <chair>swt</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l1" name="FSE Lecture 1" doubleSession="false" students="80">
-                    <teacher>lüttgen</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-l2" name="FSE Lecture 2" doubleSession="false" students="80">
-                    <teacher>lüttgen</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-            </lectures>
-            <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-p1" name="FSE Practical 1" doubleSession="false" students="30">
-                    <teacher>yip</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-p2" name="FSE Practical 2" doubleSession="false" students="30">
-                    <teacher>gareis</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="fse-p3" name="FSE Practical 3" doubleSession="false" students="30">
-                    <teacher>yip</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </practical>
-            </practicals>
-        </course>
         <course id="eiaps" name="Einführung in Algorithmen, Programmierung und Software" abbreviation="DSG-EiAPS-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>dsg</chair>
             <lectures>
@@ -345,25 +318,6 @@
                 </lecture>
             </lectures>
             <practicals/>
-        </course>
-        <course id="gik" name="Grundbausteine der Internet-Kommunikation" abbreviation="KTR-GIK-M" courseLevel="Master" minNumberOfDays="1">
-            <chair>ktr</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="gik-l1" name="GIK Lecture 1" doubleSession="false" students="20">
-                    <teacher>krieger</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="gik-l2" name="GIK Lecture 2" doubleSession="false" students="20">
-                    <teacher>krieger</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-            </lectures>
-            <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="gik-p1" name="GIK Practical 1" doubleSession="false" students="20">
-                    <teacher>großmann</teacher>
-                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
-                </practical>
-            </practicals>
         </course>
         <course id="course0" name="Methoden der Statistik II" abbreviation="Stat-B-02" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>stat</chair>
@@ -519,20 +473,6 @@
             </practicals>
         </course>
     </courses>
-    <curricula>
-        <curriculum id="sosysc-mandatory" name="Software Systems Science - mandatory courses">
-            <courses>
-                <course>fse</course>
-                <course>eiaps</course>
-                <course>stat1</course>
-            </courses>
-        </curriculum>
-        <curriculum id="isosysc-elective" name="International Software Systems Science - elective courses">
-            <courses>
-                <course>mtl</course>
-                <course>gik</course>
-            </courses>
-        </curriculum>
-    </curricula>
+    <curricula/>
     <timetables/>
 </semester>
