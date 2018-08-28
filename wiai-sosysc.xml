@@ -552,6 +552,21 @@
             </lectures>
             <practicals/>
         </course>
+        <course id="course11" name="Principles of Compiler Construction" abbreviation="SWT-PCC-M" courseLevel="Master" minNumberOfDays="2">
+            <chair>swt</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session44" name="PCC Vorlesung" doubleSession="false" students="20">
+                    <teacher>lüttgen</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session45" name="PCC Übung" doubleSession="false" students="20">
+                    <teacher>gareis</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
     </courses>
     <curricula/>
     <timetables/>
