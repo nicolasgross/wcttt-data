@@ -281,23 +281,15 @@
         <course id="mtl" name="Modal and Temporal Logic" abbreviation="GdI-MTL" courseLevel="Master" minNumberOfDays="2">
             <chair>gdi</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL Lecture 1" doubleSession="false" students="30">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL Vorlesung" doubleSession="false" students="40">
                     <teacher>mendler</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l2" name="MTL Lecture 2" doubleSession="false" students="30">
-                    <teacher>mendler</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </lecture>
             </lectures>
             <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-p1" name="MTL Practical 1" doubleSession="false" students="20">
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-p2" name="MTL Übung" doubleSession="false" students="40">
                     <teacher>guatto</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-p2" name="MTL Practical 2" doubleSession="false" students="20">
-                    <teacher>guatto</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
