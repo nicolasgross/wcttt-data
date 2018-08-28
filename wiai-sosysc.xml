@@ -214,6 +214,14 @@
         <chair id="chair6" name="Smart Environments" abbreviation="SME">
             <teachers/>
         </chair>
+        <chair id="chair7" name="Professur für Mathematik in den Wirtschaftswissenschaften" abbreviation="WiMa">
+            <teachers>
+                <teacher id="teacher30" name="Dr. Christian Aßmann">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
+        </chair>
     </chairs>
     <internalRooms>
         <internalRoom id="r1" name="WE5/00.019" capacity="156">
@@ -588,6 +596,22 @@
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
+        </course>
+        <course id="course13" name="Wirtschaftsmathematik I" abbreviation="WiMa-B-01a" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>stat</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session52" name="WiMa-01a Vorlesung 1" doubleSession="false">
+                    <teacher>teacher30</teacher>
+                    <preAssignment day="1" timeSlot="1"/>
+                    <room>audimax</room>
+                </lecture>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session53" name="WiMa-01a Vorlesung 2" doubleSession="false">
+                    <teacher>teacher30</teacher>
+                    <preAssignment day="3" timeSlot="3"/>
+                    <room>audimax</room>
+                </lecture>
+            </lectures>
+            <practicals/>
         </course>
     </courses>
     <curricula/>
