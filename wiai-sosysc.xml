@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<semester name="tiny-wiai" daysPerWeek="5" timeSlotsPerDay="6" maxDailyLecturesPerCur="4">
-    <constrWeightings s1="0.01" s2="1.0" s3="1.0" s4="1.0" s5="1.0" s6="1.0" s7="1.0"/>
+<semester name="wiai-sosysc" daysPerWeek="5" timeSlotsPerDay="6" maxDailyLecturesPerCur="4">
+    <constrWeightings s1="0.001" s2="1.0" s3="1.0" s4="1.0" s5="1.0" s6="1.0" s7="1.0"/>
     <chairs>
         <chair id="swt" name="Lehrstuhl Softwaretechnik und Programmiersprachen" abbreviation="SWT">
             <teachers>
