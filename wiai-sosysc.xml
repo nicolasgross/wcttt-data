@@ -646,6 +646,21 @@
             </practicals>
         </course>
     </courses>
-    <curricula/>
+    <curricula>
+        <curriculum id="curriculum0" name="SoSySc Pflicht">
+            <courses>
+                <course>stat1</course>
+                <course>eiaps</course>
+                <course>course0</course>
+                <course>course1</course>
+                <course>course2</course>
+                <course>course6</course>
+                <course>course9</course>
+                <course>course10</course>
+                <course>course12</course>
+                <course>course13</course>
+            </courses>
+        </curriculum>
+    </curricula>
     <timetables/>
 </semester>
