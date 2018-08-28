@@ -100,6 +100,27 @@
                 </teacher>
             </teachers>
         </chair>
+        <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
+            <teachers/>
+        </chair>
+        <chair id="chair1" name="Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen" abbreviation="PSI">
+            <teachers/>
+        </chair>
+        <chair id="chair2" name="Professur für Angewandte Informatik, insbes. Kognitive Systeme" abbreviation="KogSys">
+            <teachers/>
+        </chair>
+        <chair id="chair3" name="Lehrstuhl für Angewandte Informatik in den Kultur-, Geschichts- und Geowissenschaften" abbreviation="KInf">
+            <teachers/>
+        </chair>
+        <chair id="chair4" name="Lehrstuhl für Medieninformatik" abbreviation="MI">
+            <teachers/>
+        </chair>
+        <chair id="chair5" name="Lehrstuhl für Mensch-Computer-Interaktion" abbreviation="HCI">
+            <teachers/>
+        </chair>
+        <chair id="chair6" name="Smart Environments" abbreviation="SME">
+            <teachers/>
+        </chair>
     </chairs>
     <internalRooms>
         <internalRoom id="r1" name="WE5/00.019" capacity="156">
@@ -113,6 +134,12 @@
         </internalRoom>
         <internalRoom id="r4" name="WE5/01.006" capacity="70">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
+        </internalRoom>
+        <internalRoom id="room0" name="WE5/04.004" capacity="60">
+            <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
+        </internalRoom>
+        <internalRoom id="room1" name="WE5/03.004" capacity="30">
+            <features projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
         </internalRoom>
     </internalRooms>
     <externalRooms>
