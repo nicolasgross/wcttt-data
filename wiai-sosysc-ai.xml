@@ -218,11 +218,7 @@
         <course id="eiaps" name="Einführung in Algorithmen, Programmierung und Software" abbreviation="DSG-EiAPS-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>dsg</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l1" name="EiAPS Vorlesung 1" doubleSession="false" students="240">
-                    <teacher>wirtz</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l2" name="EiAPS Vorlesung 2" doubleSession="false" students="240">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l1" name="EiAPS Vorlesung" doubleSession="false" students="240">
                     <teacher>wirtz</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </lecture>
@@ -334,6 +330,25 @@
                 </lecture>
             </lectures>
             <practicals/>
+        </course>
+        <course id="course1" name="Introduction to Funtional Programming" abbreviation="GDI-IFP" courseLevel="Bachelor" minNumberOfDays="2">
+            <chair>gdi</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session8" name="IFP Vorlesung" doubleSession="false" students="60">
+                    <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session9" name="IFP Übung 1" doubleSession="false" students="30">
+                    <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session10" name="IFP Übung 2" doubleSession="false" students="30">
+                    <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
         </course>
     </courses>
     <curricula>
