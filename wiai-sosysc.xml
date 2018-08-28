@@ -171,7 +171,16 @@
             </teachers>
         </chair>
         <chair id="chair1" name="Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen" abbreviation="PSI">
-            <teachers/>
+            <teachers>
+                <teacher id="teacher31" name="Prof. Dr. Dominik Herrmann">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher32" name="Henning Pridöhl">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair2" name="Professur für Angewandte Informatik, insbes. Kognitive Systeme" abbreviation="KogSys">
             <teachers/>
@@ -612,6 +621,29 @@
                 </lecture>
             </lectures>
             <practicals/>
+        </course>
+        <course id="course14" name="Introduction to Security and Privacy" abbreviation="PSI-IntroSP-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair1</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session54" name="PSI-Intro Vorlesung" doubleSession="false" students="100">
+                    <teacher>teacher31</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session55" name="PSI-Intro Übung 1" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session56" name="PSI-Intro Übung 2" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session57" name="PSI-Intro Übung 3" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
         </course>
     </courses>
     <curricula/>
