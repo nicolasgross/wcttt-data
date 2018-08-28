@@ -40,6 +40,42 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher3" name="DSG HiWi 5">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher4" name="DSG HiWi 6">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher5" name="DSG HiWi 7">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher6" name="DSG HiWi 8">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher7" name="DSG HiWi 9">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher8" name="DSG HiWi 10">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher9" name="DSG HiWi 11">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher10" name="DSG HiWi 12">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher11" name="DSG HiWi 13">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GDI">
@@ -182,47 +218,67 @@
         <course id="eiaps" name="Einführung in Algorithmen, Programmierung und Software" abbreviation="DSG-EiAPS-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>dsg</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l1" name="EiAPS Lecture 1" doubleSession="false" students="240">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l1" name="EiAPS Vorlesung 1" doubleSession="false" students="240">
                     <teacher>wirtz</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l2" name="EiAPS Lecture 2" doubleSession="false" students="240">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-l2" name="EiAPS Vorlesung 2" doubleSession="false" students="240">
                     <teacher>wirtz</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </lecture>
             </lectures>
             <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-p1" name="EiAPS Practical 1" doubleSession="false" students="35">
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eiaps-p1" name="EiAPS Übung 1" doubleSession="false" students="35">
                     <teacher>dsg-hiwi1</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p2" name="EiAPS Practical 2" doubleSession="false" students="35">
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p2" name="EiAPS Übung 2" doubleSession="false" students="35">
                     <teacher>dsg-hiwi2</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p3" name="EiAPS Practical 3" doubleSession="false" students="35">
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p3" name="EiAPS Übung 3" doubleSession="false" students="35">
                     <teacher>dsg-hiwi3</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p4" name="EiAPS Practical 4" doubleSession="false" students="35">
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p4" name="EiAPS Übung 4" doubleSession="false" students="35">
                     <teacher>dsg-hiwi4</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p5" name="EiAPS Practical 5" doubleSession="false" students="35">
-                    <teacher>dsg-hiwi1</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p5" name="EiAPS Übung 5" doubleSession="false" students="35">
+                    <teacher>teacher3</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p6" name="EiAPS Practical 6" doubleSession="false" students="35">
-                    <teacher>dsg-hiwi2</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p6" name="EiAPS Übung 6" doubleSession="false" students="35">
+                    <teacher>teacher4</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p7" name="EiAPS Practical 7" doubleSession="false" students="35">
-                    <teacher>dsg-hiwi3</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p7" name="EiAPS Übung 7" doubleSession="false" students="35">
+                    <teacher>teacher5</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p8" name="EiAPS Practical 8" doubleSession="false" students="35">
-                    <teacher>dsg-hiwi4</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="eisp-p8" name="EiAPS Übung 8" doubleSession="false" students="35">
+                    <teacher>teacher6</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session1" name="EiAPS Übung 9" doubleSession="false" students="35">
+                    <teacher>teacher7</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session3" name="EiAPS Übung 10" doubleSession="false" students="35">
+                    <teacher>teacher8</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session4" name="EiAPS Übung 11" doubleSession="false" students="35">
+                    <teacher>teacher9</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session5" name="EiAPS Übung 12" doubleSession="false" students="35">
+                    <teacher>teacher10</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session6" name="EiAPS Übung 13" doubleSession="false" students="35">
+                    <teacher>teacher11</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
