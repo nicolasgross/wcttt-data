@@ -183,6 +183,10 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher23" name="Hesham Omran">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="chair6" name="Smart Environments" abbreviation="SME">
@@ -457,6 +461,25 @@
                 </practical>
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session24" name="IS Übung 4" doubleSession="false" students="20">
                     <teacher>teacher22</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course4" name="Ubiquitäre Systeme" abbreviation="HCI-US-B" courseLevel="Bachelor" minNumberOfDays="2">
+            <chair>chair5</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session25" name="US Vorlesung" doubleSession="false" students="40">
+                    <teacher>teacher20</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session26" name="US Übung 1" doubleSession="false" students="25">
+                    <teacher>teacher23</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session27" name="US Übung 2" doubleSession="false" students="25">
+                    <teacher>teacher23</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
