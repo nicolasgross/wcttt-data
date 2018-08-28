@@ -2,22 +2,6 @@
 <semester name="wiai-sosysc" daysPerWeek="5" timeSlotsPerDay="6" maxDailyLecturesPerCur="4">
     <constrWeightings s1="0.001" s2="1.0" s3="1.0" s4="1.0" s5="1.0" s6="1.0" s7="1.0"/>
     <chairs>
-        <chair id="swt" name="Lehrstuhl Softwaretechnik und Programmiersprachen" abbreviation="SWT">
-            <teachers>
-                <teacher id="lüttgen" name="Prof. Dr. Gerald Lüttgen">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="yip" name="Dr. Eugene Yip">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="gareis" name="Johannes Gareis">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-            </teachers>
-        </chair>
         <chair id="dsg" name="Lehrstuhl für Praktische Informatik" abbreviation="DSG">
             <teachers>
                 <teacher id="wirtz" name="Prof. Dr. Guido Wirtz">
@@ -122,6 +106,38 @@
                 </teacher>
             </teachers>
         </chair>
+        <chair id="chair5" name="Lehrstuhl für Mensch-Computer-Interaktion" abbreviation="HCI">
+            <teachers>
+                <teacher id="teacher20" name="Prof. Dr. Tom Gross">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher21" name="Pia Marquart">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher22" name="Mirko Fetter">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher23" name="Hesham Omran">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
+        </chair>
+        <chair id="chair3" name="Lehrstuhl für Angewandte Informatik in den Kultur-, Geschichts- und Geowissenschaften" abbreviation="KInf">
+            <teachers>
+                <teacher id="teacher24" name="Prof. Dr. Christoph Schlieder">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher25" name="Dr. Klaus Stein">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
+        </chair>
         <chair id="ktr" name="Professur für Informatik, insbesondere Kommunikationsdienste, Telekommunikationssysteme und Rechnernetze" abbreviation="KTR">
             <teachers>
                 <teacher id="krieger" name="Prof. Dr. Udo R. Krieger">
@@ -134,25 +150,11 @@
                 </teacher>
             </teachers>
         </chair>
-        <chair id="stat" name="Lehrstuhl für Statistik und Ökonometrie" abbreviation="Stat">
-            <teachers>
-                <teacher id="rässler" name="Prof. Dr. Susanne Rässler">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher0" name="Dr. Florian Meinfelder">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher1" name="Dr. Martin Messingschlager">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher2" name="Michael Bergrab">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-            </teachers>
+        <chair id="chair2" name="Professur für Angewandte Informatik, insbes. Kognitive Systeme" abbreviation="KogSys">
+            <teachers/>
+        </chair>
+        <chair id="chair4" name="Lehrstuhl für Medieninformatik" abbreviation="MI">
+            <teachers/>
         </chair>
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
             <teachers>
@@ -182,46 +184,44 @@
                 </teacher>
             </teachers>
         </chair>
-        <chair id="chair2" name="Professur für Angewandte Informatik, insbes. Kognitive Systeme" abbreviation="KogSys">
-            <teachers/>
-        </chair>
-        <chair id="chair3" name="Lehrstuhl für Angewandte Informatik in den Kultur-, Geschichts- und Geowissenschaften" abbreviation="KInf">
-            <teachers>
-                <teacher id="teacher24" name="Prof. Dr. Christoph Schlieder">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher25" name="Dr. Klaus Stein">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-            </teachers>
-        </chair>
-        <chair id="chair4" name="Lehrstuhl für Medieninformatik" abbreviation="MI">
-            <teachers/>
-        </chair>
-        <chair id="chair5" name="Lehrstuhl für Mensch-Computer-Interaktion" abbreviation="HCI">
-            <teachers>
-                <teacher id="teacher20" name="Prof. Dr. Tom Gross">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher21" name="Pia Marquart">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher22" name="Mirko Fetter">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-                <teacher id="teacher23" name="Hesham Omran">
-                    <unfavorablePeriods/>
-                    <unavailablePeriods/>
-                </teacher>
-            </teachers>
-        </chair>
         <chair id="chair6" name="Smart Environments" abbreviation="SME">
             <teachers/>
+        </chair>
+        <chair id="swt" name="Lehrstuhl Softwaretechnik und Programmiersprachen" abbreviation="SWT">
+            <teachers>
+                <teacher id="lüttgen" name="Prof. Dr. Gerald Lüttgen">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="yip" name="Dr. Eugene Yip">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="gareis" name="Johannes Gareis">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
+        </chair>
+        <chair id="stat" name="Lehrstuhl für Statistik und Ökonometrie" abbreviation="Stat">
+            <teachers>
+                <teacher id="rässler" name="Prof. Dr. Susanne Rässler">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher0" name="Dr. Florian Meinfelder">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher1" name="Dr. Martin Messingschlager">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+                <teacher id="teacher2" name="Michael Bergrab">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair7" name="Professur für Mathematik in den Wirtschaftswissenschaften" abbreviation="WiMa">
             <teachers>
@@ -233,45 +233,23 @@
         </chair>
     </chairs>
     <internalRooms>
-        <internalRoom id="r1" name="WE5/00.019" capacity="156">
-            <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
-        </internalRoom>
         <internalRoom id="r2" name="WE5/00.022" capacity="241">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
         <internalRoom id="r3" name="WE5/01.003" capacity="35">
             <features projectors="2" pcPool="true" teacherPc="true" docCam="true"/>
         </internalRoom>
-        <internalRoom id="r4" name="WE5/01.006" capacity="70">
-            <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
+        <internalRoom id="room1" name="WE5/03.004" capacity="30">
+            <features projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
         </internalRoom>
         <internalRoom id="room0" name="WE5/04.004" capacity="60">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
-        </internalRoom>
-        <internalRoom id="room1" name="WE5/03.004" capacity="30">
-            <features projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
         </internalRoom>
     </internalRooms>
     <externalRooms>
         <externalRoom id="audimax" name="Audimax"/>
     </externalRooms>
     <courses>
-        <course id="stat1" name="Methoden der Statistik I" abbreviation="Stat-B-01" courseLevel="Bachelor" minNumberOfDays="1">
-            <chair>stat</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="stat1-l1" name="Statistik I Vorlesung" doubleSession="true">
-                    <teacher>teacher1</teacher>
-                    <preAssignment day="2" timeSlot="4"/>
-                    <room>audimax</room>
-                </lecture>
-            </lectures>
-            <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session0" name="Statistik I Übung" doubleSession="false" students="40">
-                    <teacher>teacher2</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </practical>
-            </practicals>
-        </course>
         <course id="eiaps" name="Einführung in Algorithmen, Programmierung und Software" abbreviation="DSG-EiAPS-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>dsg</chair>
             <lectures>
@@ -335,31 +313,6 @@
                 </practical>
             </practicals>
         </course>
-        <course id="mtl" name="Modal and Temporal Logic" abbreviation="GdI-MTL" courseLevel="Master" minNumberOfDays="2">
-            <chair>gdi</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL V/Ü 1" doubleSession="false" students="40">
-                    <teacher>mendler</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </lecture>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session30" name="MTL V/Ü 2" doubleSession="false" students="40">
-                    <teacher>guatto</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </lecture>
-            </lectures>
-            <practicals/>
-        </course>
-        <course id="course0" name="Methoden der Statistik II" abbreviation="Stat-B-02" courseLevel="Bachelor" minNumberOfDays="1">
-            <chair>stat</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session2" name="Statistik II Vorlesung" doubleSession="true">
-                    <teacher>lüttgen</teacher>
-                    <preAssignment day="4" timeSlot="2"/>
-                    <room>audimax</room>
-                </lecture>
-            </lectures>
-            <practicals/>
-        </course>
         <course id="course1" name="Introduction to Funtional Programming" abbreviation="GdI-IFP" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>gdi</chair>
             <lectures>
@@ -378,6 +331,20 @@
                     <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
+        </course>
+        <course id="mtl" name="Modal and Temporal Logic" abbreviation="GdI-MTL" courseLevel="Master" minNumberOfDays="2">
+            <chair>gdi</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="mtl-l1" name="MTL V/Ü 1" doubleSession="false" students="40">
+                    <teacher>mendler</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </lecture>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session30" name="MTL V/Ü 2" doubleSession="false" students="40">
+                    <teacher>guatto</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </lecture>
+            </lectures>
+            <practicals/>
         </course>
         <course id="course2" name="Mathematik für Informatik 1" abbreviation="GdI-MfI-1-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>gdi</chair>
@@ -551,6 +518,29 @@
                 </practical>
             </practicals>
         </course>
+        <course id="course14" name="Introduction to Security and Privacy" abbreviation="PSI-IntroSP-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair1</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session54" name="PSI-Intro Vorlesung" doubleSession="false" students="100">
+                    <teacher>teacher31</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session55" name="PSI-Intro Übung 1" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session56" name="PSI-Intro Übung 2" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session57" name="PSI-Intro Übung 3" doubleSession="false" students="40">
+                    <teacher>teacher32</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
+        </course>
         <course id="course10" name="Foundations of Software Analysis" abbreviation="SWT-FSA" courseLevel="Bachelor" minNumberOfDays="3">
             <chair>swt</chair>
             <lectures>
@@ -606,6 +596,33 @@
                 </practical>
             </practicals>
         </course>
+        <course id="stat1" name="Methoden der Statistik I" abbreviation="Stat-B-01" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>stat</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="stat1-l1" name="Statistik I Vorlesung" doubleSession="true">
+                    <teacher>teacher1</teacher>
+                    <preAssignment day="2" timeSlot="4"/>
+                    <room>audimax</room>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session0" name="Statistik I Übung" doubleSession="false" students="40">
+                    <teacher>teacher2</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course0" name="Methoden der Statistik II" abbreviation="Stat-B-02" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>stat</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="externalSession" id="session2" name="Statistik II Vorlesung" doubleSession="true">
+                    <teacher>lüttgen</teacher>
+                    <preAssignment day="4" timeSlot="2"/>
+                    <room>audimax</room>
+                </lecture>
+            </lectures>
+            <practicals/>
+        </course>
         <course id="course13" name="Wirtschaftsmathematik I" abbreviation="WiMa-B-01a" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>stat</chair>
             <lectures>
@@ -621,29 +638,6 @@
                 </lecture>
             </lectures>
             <practicals/>
-        </course>
-        <course id="course14" name="Introduction to Security and Privacy" abbreviation="PSI-IntroSP-B" courseLevel="Bachelor" minNumberOfDays="1">
-            <chair>chair1</chair>
-            <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session54" name="PSI-Intro Vorlesung" doubleSession="false" students="100">
-                    <teacher>teacher31</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-                </lecture>
-            </lectures>
-            <practicals>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session55" name="PSI-Intro Übung 1" doubleSession="false" students="40">
-                    <teacher>teacher32</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session56" name="PSI-Intro Übung 2" doubleSession="false" students="40">
-                    <teacher>teacher32</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </practical>
-                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session57" name="PSI-Intro Übung 3" doubleSession="false" students="40">
-                    <teacher>teacher32</teacher>
-                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
-                </practical>
-            </practicals>
         </course>
     </courses>
     <curricula>
