@@ -60,6 +60,10 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher29" name="Johannes Manner">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GdI">
@@ -310,6 +314,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session6" name="EiAPS Übung 13" doubleSession="false" students="35">
                     <teacher>teacher11</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course15" name="Programmierung komplexer interagierender Systeme" abbreviation="DSG-PKS-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>dsg</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session41" name="PKS V/Ü" doubleSession="true" students="40">
+                    <teacher>teacher29</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session50" name="PKS Tutorium" doubleSession="false" students="40">
+                    <teacher>teacher29</teacher>
+                    <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
                 </practical>
             </practicals>
         </course>
@@ -643,15 +662,16 @@
     <curricula>
         <curriculum id="curriculum0" name="SoSySc Pflicht">
             <courses>
-                <course>stat1</course>
                 <course>eiaps</course>
-                <course>course0</course>
+                <course>course15</course>
                 <course>course1</course>
                 <course>course2</course>
                 <course>course6</course>
                 <course>course9</course>
                 <course>course10</course>
                 <course>course12</course>
+                <course>stat1</course>
+                <course>course0</course>
                 <course>course13</course>
             </courses>
         </curriculum>
