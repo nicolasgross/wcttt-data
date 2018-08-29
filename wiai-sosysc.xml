@@ -249,9 +249,6 @@
         <internalRoom id="room0" name="WE5/04.004" capacity="60">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
-        <internalRoom id="room2" name="WE5/04.014" capacity="40">
-            <features projectors="2" pcPool="true" teacherPc="true" docCam="true"/>
-        </internalRoom>
     </internalRooms>
     <externalRooms>
         <externalRoom id="audimax" name="Audimax"/>
