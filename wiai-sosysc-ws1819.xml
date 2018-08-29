@@ -177,6 +177,10 @@
                     </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher36" name="Stefan Kufer">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
@@ -273,7 +277,7 @@
         <course id="course16" name="Einführung in die Angewandte Informatik" abbreviation="AI-EinfAI-B" courseLevel="Bachelor" minNumberOfDays="1">
             <chair>chair3</chair>
             <lectures>
-                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session51" name="EinfAI Vorlesung" doubleSession="false" students="50">
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session51" name="EinfAI Vorlesung" doubleSession="false" students="70">
                     <teacher>teacher24</teacher>
                     <preAssignment day="1" timeSlot="3"/>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
@@ -542,6 +546,41 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session34" name="Datkomm Übung" doubleSession="false" students="40">
                     <teacher>großmann</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course19" name="Einführung in die Medieninformatik" abbreviation="MI-EMI-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair4</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session62" name="EMI Vorlesung" doubleSession="false" students="100">
+                    <teacher>teacher33</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session63" name="EMI Übung 1" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session64" name="EMI Übung 2" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session65" name="EMI Übung 3" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session66" name="EMI Übung 4" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session67" name="EMI Übung 5" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
+                </practical>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session68" name="EMI Übung 6" doubleSession="false" students="20">
+                    <teacher>teacher36</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
