@@ -249,6 +249,9 @@
         <internalRoom id="room0" name="WE5/04.004" capacity="60">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
+        <internalRoom id="room2" name="WE5/04.014" capacity="40">
+            <features projectors="2" pcPool="true" teacherPc="true" docCam="true"/>
+        </internalRoom>
     </internalRooms>
     <externalRooms>
         <externalRoom id="audimax" name="Audimax"/>
@@ -660,7 +663,7 @@
         </course>
     </courses>
     <curricula>
-        <curriculum id="curriculum0" name="SoSySc Pflicht">
+        <curriculum id="curriculum0" name="SoSySc Pflicht 1-3">
             <courses>
                 <course>eiaps</course>
                 <course>course15</course>
@@ -668,11 +671,19 @@
                 <course>course2</course>
                 <course>course6</course>
                 <course>course9</course>
-                <course>course10</course>
-                <course>course12</course>
                 <course>stat1</course>
                 <course>course0</course>
                 <course>course13</course>
+            </courses>
+        </curriculum>
+        <curriculum id="curriculum1" name="SoSySc Pflicht 4-6">
+            <courses>
+                <course>course15</course>
+                <course>course1</course>
+                <course>course6</course>
+                <course>course10</course>
+                <course>course12</course>
+                <course>course9</course>
             </courses>
         </curriculum>
     </curricula>
