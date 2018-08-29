@@ -240,14 +240,14 @@
         <internalRoom id="r2" name="WE5/00.022" capacity="241">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
-        <internalRoom id="r3" name="WE5/01.003" capacity="35">
-            <features projectors="2" pcPool="true" teacherPc="true" docCam="true"/>
-        </internalRoom>
         <internalRoom id="room1" name="WE5/03.004" capacity="30">
             <features projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
         </internalRoom>
         <internalRoom id="room0" name="WE5/04.004" capacity="60">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
+        </internalRoom>
+        <internalRoom id="r3" name="WE5/04.014" capacity="40">
+            <features projectors="2" pcPool="true" teacherPc="true" docCam="true"/>
         </internalRoom>
     </internalRooms>
     <externalRooms>
