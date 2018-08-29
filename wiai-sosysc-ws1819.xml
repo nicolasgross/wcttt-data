@@ -66,6 +66,14 @@
                 </teacher>
             </teachers>
         </chair>
+        <chair id="chair8" name="Lehrstuhl für Wirtschaftsinformatik, insb. Energieeffiziente Systeme" abbreviation="EESYS">
+            <teachers>
+                <teacher id="teacher34" name="Prof. Dr. Thorsten Staake">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
+        </chair>
         <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GdI">
             <teachers>
                 <teacher id="mendler" name="Prof. Michael Mendler, PhD">
@@ -344,6 +352,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session50" name="PKS Tutorium" doubleSession="false" students="40">
                     <teacher>teacher29</teacher>
                     <roomRequirements projectors="1" pcPool="true" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course17" name="Grundlagen der Energieinformatik" abbreviation="EESYS-GEI-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair8</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session58" name="GEI Vorlesung" doubleSession="false" students="40">
+                    <teacher>teacher34</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session59" name="GEI Übung" doubleSession="false" students="40">
+                    <teacher>teacher34</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
