@@ -148,6 +148,10 @@
                     <unfavorablePeriods/>
                     <unavailablePeriods/>
                 </teacher>
+                <teacher id="teacher35" name="Thomas Heinz">
+                    <unfavorablePeriods/>
+                    <unavailablePeriods/>
+                </teacher>
             </teachers>
         </chair>
         <chair id="ktr" name="Professur für Informatik, insbesondere Kommunikationsdienste, Telekommunikationssysteme und Rechnernetze" abbreviation="KTR">
@@ -493,6 +497,21 @@
                 <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session27" name="US Übung 2" doubleSession="false" students="25">
                     <teacher>teacher23</teacher>
                     <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </practical>
+            </practicals>
+        </course>
+        <course id="course18" name="Digitale Bibliotheken und Social Computing" abbreviation="KInf-DigBib-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair3</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session60" name="DigBib Vorlesung" doubleSession="false" students="30">
+                    <teacher>teacher24</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals>
+                <practical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session61" name="DigBib Übung" doubleSession="false" students="30">
+                    <teacher>teacher35</teacher>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="true"/>
                 </practical>
             </practicals>
         </course>
