@@ -158,7 +158,14 @@
             <teachers/>
         </chair>
         <chair id="chair4" name="Lehrstuhl für Medieninformatik" abbreviation="MI">
-            <teachers/>
+            <teachers>
+                <teacher id="teacher33" name="Prof. Dr. Andreas Henrich">
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="3"/>
+                    </unfavorablePeriods>
+                    <unavailablePeriods/>
+                </teacher>
+            </teachers>
         </chair>
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
             <teachers>
@@ -251,6 +258,17 @@
         <externalRoom id="audimax" name="Audimax"/>
     </externalRooms>
     <courses>
+        <course id="course16" name="Einführung in die Angewandte Informatik" abbreviation="AI-EinfAI-B" courseLevel="Bachelor" minNumberOfDays="1">
+            <chair>chair3</chair>
+            <lectures>
+                <lecture xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="internalSession" id="session51" name="EinfAI Vorlesung" doubleSession="false" students="50">
+                    <teacher>teacher24</teacher>
+                    <preAssignment day="1" timeSlot="3"/>
+                    <roomRequirements projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
+                </lecture>
+            </lectures>
+            <practicals/>
+        </course>
         <course id="eiaps" name="Einführung in Algorithmen, Programmierung und Software" abbreviation="DSG-EiAPS-B" courseLevel="Bachelor" minNumberOfDays="2">
             <chair>dsg</chair>
             <lectures>
