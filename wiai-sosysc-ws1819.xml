@@ -240,9 +240,6 @@
         <internalRoom id="r2" name="WE5/00.022" capacity="241">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
-        <internalRoom id="room1" name="WE5/03.004" capacity="30">
-            <features projectors="1" pcPool="false" teacherPc="false" docCam="false"/>
-        </internalRoom>
         <internalRoom id="room0" name="WE5/04.004" capacity="60">
             <features projectors="2" pcPool="false" teacherPc="true" docCam="true"/>
         </internalRoom>
@@ -681,6 +678,22 @@
                 <course>course10</course>
                 <course>course12</course>
                 <course>course9</course>
+            </courses>
+        </curriculum>
+        <curriculum id="curriculum2" name="SoSySc WP1">
+            <courses>
+                <course>course15</course>
+                <course>course6</course>
+                <course>course7</course>
+                <course>course14</course>
+            </courses>
+        </curriculum>
+        <curriculum id="curriculum3" name="SoSySc WP2">
+            <courses>
+                <course>mtl</course>
+                <course>course10</course>
+                <course>course11</course>
+                <course>course5</course>
             </courses>
         </curriculum>
     </curricula>
