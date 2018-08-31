@@ -5,63 +5,153 @@
         <chair id="dsg" name="Lehrstuhl für Praktische Informatik" abbreviation="DSG">
             <teachers>
                 <teacher id="wirtz" name="Prof. Dr. Guido Wirtz">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="dsg-hiwi1" name="DSG HiWi 1">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="dsg-hiwi2" name="DSG HiWi 2">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="dsg-hiwi3" name="DSG HiWi 3">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="dsg-hiwi4" name="DSG HiWi 4">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher3" name="DSG HiWi 5">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher4" name="DSG HiWi 6">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher5" name="DSG HiWi 7">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher6" name="DSG HiWi 8">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher7" name="DSG HiWi 9">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher8" name="DSG HiWi 10">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher9" name="DSG HiWi 11">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher10" name="DSG HiWi 12">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher11" name="DSG HiWi 13">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher29" name="Johannes Manner">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -69,7 +159,13 @@
         <chair id="chair8" name="Lehrstuhl für Wirtschaftsinformatik, insb. Energieeffiziente Systeme" abbreviation="EESYS">
             <teachers>
                 <teacher id="teacher34" name="Prof. Dr. Thorsten Staake">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -77,43 +173,103 @@
         <chair id="gdi" name="Professur für Grundlagen der Informatik" abbreviation="GdI">
             <teachers>
                 <teacher id="mendler" name="Prof. Michael Mendler, PhD">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="guatto" name="Dr. Adrien Guatto">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher12" name="GdI HiWi 1">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher13" name="GdI HiWi 2">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher14" name="GdI HiWi 3">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher15" name="GdI HiWi 4">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher16" name="GdI HiWi 5">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher17" name="GdI HiWi 6">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher18" name="GdI HiWi 7">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher19" name="GdI HiWi 8">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -121,19 +277,43 @@
         <chair id="chair5" name="Lehrstuhl für Mensch-Computer-Interaktion" abbreviation="HCI">
             <teachers>
                 <teacher id="teacher20" name="Prof. Dr. Tom Gross">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher21" name="Pia Marquart">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher22" name="Mirko Fetter">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher23" name="Hesham Omran">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -141,15 +321,33 @@
         <chair id="chair3" name="Lehrstuhl für Angewandte Informatik in den Kultur-, Geschichts- und Geowissenschaften" abbreviation="KInf">
             <teachers>
                 <teacher id="teacher24" name="Prof. Dr. Christoph Schlieder">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher25" name="Dr. Klaus Stein">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher35" name="Thomas Heinz">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -157,11 +355,23 @@
         <chair id="ktr" name="Professur für Informatik, insbesondere Kommunikationsdienste, Telekommunikationssysteme und Rechnernetze" abbreviation="KTR">
             <teachers>
                 <teacher id="krieger" name="Prof. Dr. Udo R. Krieger">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="großmann" name="Dr. Marcel Großmann">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -173,12 +383,24 @@
             <teachers>
                 <teacher id="teacher33" name="Prof. Dr. Andreas Henrich">
                     <unfavorablePeriods>
-                        <unfavorable day="1" timeSlot="3"/>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
                     </unfavorablePeriods>
-                    <unavailablePeriods/>
+                    <unavailablePeriods>
+                        <unavailable day="1" timeSlot="3"/>
+                    </unavailablePeriods>
                 </teacher>
                 <teacher id="teacher36" name="Stefan Kufer">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -186,15 +408,33 @@
         <chair id="chair0" name="Lehrstuhls für Informatik, insbesondere Mobile Software Systeme / Mobilität" abbreviation="MOBI">
             <teachers>
                 <teacher id="teacher26" name="Prof. Dr. Daniela Nicklas">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher27" name="Golnaz Elmamooz">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher28" name="Maliha Majid Qureshi">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -202,11 +442,23 @@
         <chair id="chair1" name="Lehrstuhl Privatsphäre und Sicherheit in Informationssystemen" abbreviation="PSI">
             <teachers>
                 <teacher id="teacher31" name="Prof. Dr. Dominik Herrmann">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher32" name="Henning Pridöhl">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -217,15 +469,33 @@
         <chair id="swt" name="Lehrstuhl Softwaretechnik und Programmiersprachen" abbreviation="SWT">
             <teachers>
                 <teacher id="lüttgen" name="Prof. Dr. Gerald Lüttgen">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="yip" name="Dr. Eugene Yip">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="gareis" name="Johannes Gareis">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -233,19 +503,43 @@
         <chair id="stat" name="Lehrstuhl für Statistik und Ökonometrie" abbreviation="Stat">
             <teachers>
                 <teacher id="rässler" name="Prof. Dr. Susanne Rässler">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher0" name="Dr. Florian Meinfelder">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher1" name="Dr. Martin Messingschlager">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
                 <teacher id="teacher2" name="Michael Bergrab">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -253,7 +547,13 @@
         <chair id="chair7" name="Professur für Mathematik in den Wirtschaftswissenschaften" abbreviation="WiMa">
             <teachers>
                 <teacher id="teacher30" name="Dr. Christian Aßmann">
-                    <unfavorablePeriods/>
+                    <unfavorablePeriods>
+                        <unfavorable day="1" timeSlot="6"/>
+                        <unfavorable day="2" timeSlot="6"/>
+                        <unfavorable day="3" timeSlot="6"/>
+                        <unfavorable day="4" timeSlot="6"/>
+                        <unfavorable day="5" timeSlot="6"/>
+                    </unfavorablePeriods>
                     <unavailablePeriods/>
                 </teacher>
             </teachers>
@@ -834,7 +1134,7 @@
         </curriculum>
     </curricula>
     <timetables>
-        <timetable name="timetable0" softConstraintPenalty="5.6119999999999965">
+        <timetable name="timetable0" softConstraintPenalty="12.136999999999988">
             <days>
                 <timetableDay day="1">
                     <periods>
@@ -845,15 +1145,15 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session47</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>mtl-l1</session>
+    <session>session27</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session7</session>
+    <session>session46</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session23</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -861,16 +1161,16 @@
                         <timetablePeriod day="1" timeSlot="2">
                             <assignments>
 <timetableAssignment>
+    <session>session43</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
     <session>session62</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session40</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
     <session>session14</session>
-    <room>room0</room>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -881,51 +1181,51 @@
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session41</session>
-    <room>r3</room>
+    <session>session36</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session24</session>
-    <room>room0</room>
+    <session>session37</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session41</session>
+    <session>eisp-p3</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session39</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session31</session>
-    <room>room0</room>
+    <session>session45</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p7</session>
+    <session>session24</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session68</session>
-    <room>room0</room>
+    <session>session41</session>
+    <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session10</session>
-    <room>r3</room>
+    <session>session29</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session3</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session13</session>
+    <session>session41</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -937,15 +1237,15 @@
                         <timetablePeriod day="2" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session12</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session48</session>
+    <session>session66</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session6</session>
+    <session>session16</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p6</session>
     <room>room0</room>
 </timetableAssignment>
                             </assignments>
@@ -953,28 +1253,32 @@
                         <timetablePeriod day="2" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session67</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session58</session>
+    <session>session12</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eiaps-p1</session>
+    <session>session63</session>
     <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p5</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session33</session>
-    <room>room0</room>
+    <session>session38</session>
+    <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session22</session>
-    <room>r3</room>
+    <session>session30</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session1</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -985,16 +1289,12 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session56</session>
+    <session>session57</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session61</session>
+    <session>session44</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session42</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1005,28 +1305,28 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session30</session>
+    <session>session22</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session56</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session32</session>
-    <room>r3</room>
+    <session>session48</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session39</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session28</session>
+    <session>eiaps-p1</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p8</session>
-    <room>r2</room>
+    <session>session13</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1037,28 +1337,32 @@
                         <timetablePeriod day="3" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session29</session>
+    <session>session35</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session50</session>
+    <session>session18</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p8</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session49</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>eiaps-l1</session>
+    <session>mtl-l1</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session21</session>
+    <session>session33</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session67</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1069,35 +1373,47 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session59</session>
+    <session>session42</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session46</session>
+    <session>session32</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session54</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p5</session>
+    <session>session61</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session9</session>
+    <session>session49</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-l1</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p6</session>
+    <session>session5</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session19</session>
+    <session>session64</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session10</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -1105,15 +1421,7 @@
                         <timetablePeriod day="3" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session26</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session1</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session38</session>
+    <session>eisp-p4</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -1125,12 +1433,16 @@
                         <timetablePeriod day="4" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session35</session>
+    <session>session65</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session59</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>session11</session>
-    <room>room0</room>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1141,12 +1453,12 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session54</session>
-    <room>room0</room>
+    <session>session7</session>
+    <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session25</session>
-    <room>r3</room>
+    <session>session31</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1157,60 +1469,48 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session36</session>
-    <room>room0</room>
+    <session>session60</session>
+    <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session23</session>
-    <room>r3</room>
+    <session>session26</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session27</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session4</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session17</session>
+    <session>session28</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session8</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session66</session>
+    <session>session17</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session40</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p3</session>
+    <session>session6</session>
     <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session18</session>
-    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session15</session>
+    <session>session34</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session55</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session5</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1221,88 +1521,88 @@
                         <timetablePeriod day="5" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session57</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session8</session>
+    <session>eisp-p7</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session63</session>
+    <session>session9</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session25</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session44</session>
-    <room>r3</room>
+    <session>session58</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session37</session>
-    <room>room0</room>
+    <session>session21</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session0</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session43</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session0</session>
+    <session>session47</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session60</session>
+    <session>session20</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session3</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session64</session>
+    <session>session68</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session34</session>
+    <session>session19</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session4</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session20</session>
+    <session>eisp-p2</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session15</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session65</session>
+    <session>session55</session>
     <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>eisp-p4</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session45</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session16</session>
+    <session>session50</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>eisp-p2</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1310,7 +1610,7 @@
                 </timetableDay>
             </days>
         </timetable>
-        <timetable name="timetable1" softConstraintPenalty="6.0139999999999985">
+        <timetable name="timetable1" softConstraintPenalty="14.316999999999988">
             <days>
                 <timetableDay day="1">
                     <periods>
@@ -1321,32 +1621,32 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session48</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session32</session>
+    <session>mtl-l1</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session28</session>
+    <session>session27</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session55</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session62</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session40</session>
+    <session>session42</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session14</session>
+    <session>session11</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session62</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1354,26 +1654,30 @@
                             <assignments>
 <timetableAssignment>
     <session>session51</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session56</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>session37</session>
-    <room>room0</room>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session24</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session12</session>
+    <session>session15</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p6</session>
+    <session>session4</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session46</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -1381,28 +1685,20 @@
                         <timetablePeriod day="1" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session34</session>
-    <room>r3</room>
+    <session>eisp-p3</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session63</session>
-    <room>room0</room>
+    <session>session38</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="1" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session31</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session15</session>
+    <session>session50</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>eisp-p8</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1413,44 +1709,48 @@
                         <timetablePeriod day="2" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session47</session>
-    <room>room0</room>
+    <session>session35</session>
+    <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session0</session>
+    <session>session9</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session57</session>
-    <room>r2</room>
+    <session>eisp-p8</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session3</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session26</session>
+    <session>eisp-p4</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session10</session>
+    <session>session17</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session54</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session19</session>
+    <session>session10</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>eisp-p5</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session22</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1461,12 +1761,16 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session58</session>
+    <session>session59</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session46</session>
+    <session>session24</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session48</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1477,15 +1781,15 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session25</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session61</session>
+    <session>session47</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session56</session>
+    <session>session21</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session36</session>
     <room>room0</room>
 </timetableAssignment>
                             </assignments>
@@ -1493,16 +1797,12 @@
                         <timetablePeriod day="2" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session49</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session5</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session16</session>
+    <session>session39</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-p1</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1513,32 +1813,32 @@
                         <timetablePeriod day="3" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session21</session>
+    <session>session44</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session3</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session67</session>
+    <session>session20</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session33</session>
-    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session43</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session35</session>
-    <room>r3</room>
+    <session>session28</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>eiaps-l1</session>
-    <room>room0</room>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session58</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1549,19 +1849,23 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session55</session>
+    <session>session25</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session44</session>
+    <session>session57</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session40</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>mtl-l1</session>
+    <session>session63</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
@@ -1573,28 +1877,24 @@
                         <timetablePeriod day="3" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session68</session>
-    <room>room0</room>
+    <session>session64</session>
+    <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>session41</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session31</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session54</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session38</session>
+    <session>session33</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session1</session>
-    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1605,11 +1905,15 @@
                         <timetablePeriod day="4" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>eiaps-p1</session>
+    <session>session7</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session39</session>
+    <session>session5</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session45</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -1621,16 +1925,12 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session60</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
     <session>session29</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session59</session>
-    <room>r2</room>
+    <session>session60</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1641,55 +1941,51 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session7</session>
-    <room>r3</room>
+    <session>session61</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session27</session>
-    <room>room0</room>
+    <session>session32</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session9</session>
+    <session>session30</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session64</session>
-    <room>room0</room>
+    <session>session8</session>
+    <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p3</session>
-    <room>r2</room>
+    <session>session66</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session18</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session36</session>
+    <session>session23</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session4</session>
+    <session>session43</session>
     <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session14</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p7</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session13</session>
+    <session>session0</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -1701,15 +1997,15 @@
                         <timetablePeriod day="5" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session66</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session23</session>
+    <session>session65</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session8</session>
+    <session>session13</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session1</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -1717,27 +2013,43 @@
                         <timetablePeriod day="5" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session42</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session11</session>
+    <session>session19</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session22</session>
+    <session>eisp-p7</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session26</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session20</session>
+    <session>session16</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session30</session>
+    <session>session68</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session6</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session18</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session49</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
@@ -1746,39 +2058,27 @@
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
-                        <timetablePeriod day="5" timeSlot="4">
-                            <assignments>
-<timetableAssignment>
-    <session>session65</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session50</session>
-    <room>r3</room>
-</timetableAssignment>
-                            </assignments>
-                        </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p4</session>
+    <session>session12</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session67</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session17</session>
-    <room>r3</room>
+    <session>eisp-p6</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session6</session>
+    <session>session34</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session45</session>
-    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1786,7 +2086,7 @@
                 </timetableDay>
             </days>
         </timetable>
-        <timetable name="timetable2" softConstraintPenalty="7.432999999999996">
+        <timetable name="timetable4" softConstraintPenalty="14.396999999999988">
             <days>
                 <timetableDay day="1">
                     <periods>
@@ -1797,11 +2097,11 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session55</session>
+    <session>session46</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session47</session>
+    <session>session23</session>
     <room>room0</room>
 </timetableAssignment>
                             </assignments>
@@ -1809,15 +2109,15 @@
                         <timetablePeriod day="1" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session48</session>
+    <session>session32</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session14</session>
+    <session>session11</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session65</session>
+    <session>session62</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -1829,6 +2129,10 @@
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
+    <session>session25</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
     <session>session41</session>
     <room>r3</room>
 </timetableAssignment>
@@ -1837,7 +2141,931 @@
                         <timetablePeriod day="1" timeSlot="4">
                             <assignments>
 <timetableAssignment>
+    <session>session64</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session58</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session41</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session38</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session54</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p6</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session34</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="2">
+                    <periods>
+                        <timetablePeriod day="2" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>eisp-p4</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session9</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session66</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session18</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session35</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session6</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session33</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session65</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>stat1-l1</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session40</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session55</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session22</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>stat1-l1</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session49</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
     <session>mtl-l1</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session24</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session14</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="3">
+                    <periods>
+                        <timetablePeriod day="3" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>eisp-p3</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session20</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session68</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session30</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session48</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-l1</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session53</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session42</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session21</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session36</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session63</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session8</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session47</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session5</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session19</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session0</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="4">
+                    <periods>
+                        <timetablePeriod day="4" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session67</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session17</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p5</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session2</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session7</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session57</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session27</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session2</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session31</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session59</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session60</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session4</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session56</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session10</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session45</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session39</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p8</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session3</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="5">
+                    <periods>
+                        <timetablePeriod day="5" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>eisp-p7</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session15</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session43</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session44</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session26</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session37</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session13</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session28</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-p1</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>eisp-p2</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session12</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session29</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session1</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session61</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session16</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session50</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+            </days>
+        </timetable>
+        <timetable name="timetable3" softConstraintPenalty="16.054999999999986">
+            <days>
+                <timetableDay day="1">
+                    <periods>
+                        <timetablePeriod day="1" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session52</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session60</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session25</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session43</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session35</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session8</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session62</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session51</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session30</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session41</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session64</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session28</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session41</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session63</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p8</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session19</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session5</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session16</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="2">
+                    <periods>
+                        <timetablePeriod day="2" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session44</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session38</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-p1</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session0</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session57</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session40</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session6</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session65</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session13</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>stat1-l1</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session47</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session36</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>stat1-l1</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session49</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session23</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session32</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="2" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session11</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="3">
+                    <periods>
+                        <timetablePeriod day="3" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session56</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session4</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session15</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>mtl-l1</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-l1</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session26</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session53</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session7</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session42</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session27</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session58</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session54</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session37</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session33</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session22</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="3" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session17</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p4</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="4">
+                    <periods>
+                        <timetablePeriod day="4" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session10</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session21</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p7</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session2</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session61</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session29</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session2</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session31</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session59</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session45</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session14</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session55</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session18</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p6</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session66</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="4" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>eisp-p3</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+                <timetableDay day="5">
+                    <periods>
+                        <timetablePeriod day="5" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session46</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p5</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session12</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session9</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session1</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session68</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="3">
+                            <assignments>
+<timetableAssignment>
+    <session>session50</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session67</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session3</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session39</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session48</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session24</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p2</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session20</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="5" timeSlot="6">
+                            <assignments>
+<timetableAssignment>
+    <session>session34</session>
+    <room>r3</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                    </periods>
+                </timetableDay>
+            </days>
+        </timetable>
+        <timetable name="timetable2" softConstraintPenalty="16.653999999999986">
+            <days>
+                <timetableDay day="1">
+                    <periods>
+                        <timetablePeriod day="1" timeSlot="1">
+                            <assignments>
+<timetableAssignment>
+    <session>session52</session>
+    <room>audimax</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session42</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session23</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session54</session>
+    <room>r2</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="2">
+                            <assignments>
+<timetableAssignment>
+    <session>session30</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
@@ -1850,10 +3078,26 @@
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
-                        <timetablePeriod day="1" timeSlot="5">
+                        <timetablePeriod day="1" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session44</session>
+    <session>session51</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session41</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session7</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="4">
+                            <assignments>
+<timetableAssignment>
+    <session>session11</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
@@ -1861,7 +3105,23 @@
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session37</session>
+    <session>session48</session>
+    <room>room0</room>
+</timetableAssignment>
+                            </assignments>
+                        </timetablePeriod>
+                        <timetablePeriod day="1" timeSlot="5">
+                            <assignments>
+<timetableAssignment>
+    <session>session17</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session49</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session5</session>
     <room>room0</room>
 </timetableAssignment>
                             </assignments>
@@ -1869,16 +3129,12 @@
                         <timetablePeriod day="1" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p6</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session68</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session40</session>
+    <session>eisp-p8</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session10</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1889,23 +3145,27 @@
                         <timetablePeriod day="2" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p2</session>
+    <session>session15</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p5</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session38</session>
-    <room>r3</room>
+    <session>session66</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session1</session>
+    <session>session3</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session9</session>
+    <session>session18</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -1913,12 +3173,16 @@
                         <timetablePeriod day="2" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session29</session>
+    <session>session9</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session1</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session50</session>
-    <room>r3</room>
+    <session>session21</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1929,16 +3193,12 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session43</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session24</session>
+    <session>session47</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session25</session>
-    <room>r2</room>
+    <session>session59</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1949,28 +3209,28 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session58</session>
+    <session>session61</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session30</session>
+    <session>session26</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session46</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="2" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session3</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session64</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session20</session>
+    <session>session38</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p7</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -1981,24 +3241,32 @@
                         <timetablePeriod day="3" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session6</session>
-    <room>room0</room>
+    <session>eisp-p4</session>
+    <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session10</session>
+    <session>session13</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session63</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session46</session>
-    <room>r3</room>
+    <session>session68</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session11</session>
-    <room>room0</room>
+    <session>eiaps-p1</session>
+    <room>r2</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session39</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -2009,60 +3277,56 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session26</session>
-    <room>room0</room>
+    <session>session29</session>
+    <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session61</session>
-    <room>r3</room>
+    <session>session36</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>eiaps-l1</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session36</session>
+    <session>session56</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session42</session>
+    <session>session22</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eiaps-l1</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session28</session>
-    <room>r2</room>
+    <session>session67</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session23</session>
+    <session>session20</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session0</session>
-    <room>room0</room>
+    <session>eisp-p6</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="3" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session5</session>
-    <room>r2</room>
+    <session>session4</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
     <session>session12</session>
     <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session63</session>
-    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
@@ -2073,15 +3337,15 @@
                         <timetablePeriod day="4" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>session15</session>
-    <room>r3</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session4</session>
+    <session>session64</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session67</session>
+    <session>session28</session>
+    <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session34</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -2093,11 +3357,11 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session59</session>
+    <session>mtl-l1</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session56</session>
+    <session>session57</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -2109,7 +3373,7 @@
     <room>audimax</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session60</session>
+    <session>session58</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
@@ -2121,15 +3385,15 @@
                         <timetablePeriod day="4" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p4</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session16</session>
+    <session>session65</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session7</session>
+    <session>session25</session>
+    <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session14</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -2137,27 +3401,23 @@
                         <timetablePeriod day="4" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session57</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>eisp-p8</session>
+    <session>session35</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session17</session>
+    <session>session40</session>
     <room>r3</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>eisp-p2</session>
+    <room>room0</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="4" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>session45</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session34</session>
+    <session>session33</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
@@ -2169,59 +3429,59 @@
                         <timetablePeriod day="5" timeSlot="1">
                             <assignments>
 <timetableAssignment>
-    <session>eiaps-p1</session>
-    <room>r2</room>
+    <session>session45</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session18</session>
+    <session>session16</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session21</session>
-    <room>room0</room>
+    <session>session6</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="2">
                             <assignments>
 <timetableAssignment>
-    <session>session13</session>
-    <room>r3</room>
+    <session>eisp-p3</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p7</session>
-    <room>room0</room>
+    <session>session19</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="3">
                             <assignments>
 <timetableAssignment>
-    <session>session39</session>
-    <room>r3</room>
+    <session>session31</session>
+    <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session35</session>
+    <session>session60</session>
     <room>r2</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>eisp-p3</session>
-    <room>room0</room>
+    <session>session8</session>
+    <room>r3</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="4">
                             <assignments>
 <timetableAssignment>
-    <session>session31</session>
+    <session>session44</session>
     <room>room0</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session22</session>
+    <session>session55</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session33</session>
+    <session>session37</session>
     <room>r2</room>
 </timetableAssignment>
                             </assignments>
@@ -2229,31 +3489,23 @@
                         <timetablePeriod day="5" timeSlot="5">
                             <assignments>
 <timetableAssignment>
-    <session>session54</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session66</session>
+    <session>session24</session>
     <room>r3</room>
 </timetableAssignment>
 <timetableAssignment>
-    <session>session8</session>
+    <session>session43</session>
     <room>room0</room>
+</timetableAssignment>
+<timetableAssignment>
+    <session>session0</session>
+    <room>r2</room>
 </timetableAssignment>
                             </assignments>
                         </timetablePeriod>
                         <timetablePeriod day="5" timeSlot="6">
                             <assignments>
 <timetableAssignment>
-    <session>eisp-p5</session>
-    <room>r2</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session49</session>
-    <room>room0</room>
-</timetableAssignment>
-<timetableAssignment>
-    <session>session19</session>
+    <session>session50</session>
     <room>r3</room>
 </timetableAssignment>
                             </assignments>
